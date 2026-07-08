@@ -1,4 +1,4 @@
 # USER12mSD4C
 owner of [UTMSit](https://github.com/UTMSit)
-
-os-dev
+OS developer, AI architect(i think it called like that, the guy who creates AI architectures and learning methods)
+and basically retarded
