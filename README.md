@@ -1,6 +1,18 @@
 # USER12mSD4C
-* owner of [UTMSit](https://github.com/UTMSit)
-* OS developer, AI architect(i think it called like that, the guy who creates AI architectures and learning methods)
-* and basically retarded
-* arch linux before, now nixOS user
-* C/RUST/ASSEMBLY/wand2c main langs
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+## About
+
+- Owner of [UTMSit](https://github.com/UTMSit)
+- OS developer
+- AI architect — or whatever it's called; the guy who creates AI architectures and learning methods
+- and basically retarded
+- Arch Linux before, now NixOS user
+- Main languages: C, Rust, Assembly, wand2c
+
+## Links
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/utms.uz)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/user12ms)
