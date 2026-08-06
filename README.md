@@ -6,9 +6,9 @@
 
 - Owner of [UTMSit](https://github.com/UTMSit)
 - OS developer
-- AI architect — or whatever it's called; the guy who creates AI architectures and learning methods
-- and basically retarded
-- Arch Linux before, now NixOS user
+- AI architect - or whatever it's called; the guy who creates AI architectures and learning methods
+- and basically retard
+- used Arch Linux before, now NixOS and fedora user
 - Main languages: C, Rust, Assembly, wand2c
 
 ## Links
