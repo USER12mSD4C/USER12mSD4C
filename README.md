@@ -8,7 +8,7 @@
 - OS developer
 - AI architect - or whatever it's called; the guy who creates AI architectures and learning methods
 - and basically retard
-- used Arch Linux before, now NixOS and fedora user
+- used Arch and nix before, now using gentoo on main PC and fedora on thinkpad T420
 - Main languages: C, Rust, wand2c
 - kanye & ye fan
 
