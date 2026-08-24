@@ -10,6 +10,7 @@
 - and basically retard
 - used Arch Linux before, now NixOS and fedora user
 - Main languages: C, Rust, wand2c
+- kanye & ye fan
 
 ## Links
 
