@@ -9,7 +9,7 @@
 - AI architect - or whatever it's called; the guy who creates AI architectures and learning methods
 - and basically retard
 - used Arch Linux before, now NixOS and fedora user
-- Main languages: C, Rust, Assembly, wand2c
+- Main languages: C, Rust, wand2c
 
 ## Links
 
