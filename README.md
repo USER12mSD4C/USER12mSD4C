@@ -9,7 +9,7 @@
 - and basically retard
 - used Arch and nix before, now using gentoo on main PC and netBSD on t420
 - Main languages: C, Rust, wand2c
-- kanye & ye fan
+- BiPolar
 
 i love me and me only
 
