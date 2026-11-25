@@ -8,8 +8,7 @@
 - OS developer
 - and basically retard
 - used Arch and nix before, now using gentoo on main PC and netBSD on t420
-- Main languages: C, Rust, wand2c
-- BiPolar
+- Main languages: C, Rust, wand
 
 i love me and me only
 
