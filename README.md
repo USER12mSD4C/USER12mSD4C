@@ -7,7 +7,7 @@
 - Owner of [UTMSit](https://github.com/UTMSit)
 - OS developer
 - and basically retard
-- used Arch and nix before, now using gentoo on main PC and netBSD on t420
+- used Arch and nix before, now using gentoo on main PC and comrun7/utms7 on t420
 - Main languages: C, Rust, wand
 
 i love me and me only
