@@ -11,6 +11,7 @@
 - Main languages: C, Rust, wand
 
 i love me and me only
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e91051a-8f0f-40ec-99aa-68eaa74cce2a" />
 
 ## Links
 
