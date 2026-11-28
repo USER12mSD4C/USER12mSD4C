@@ -12,8 +12,10 @@
 
 i love me and me only
 
-<img width="100" height="90" alt="logo" src="https://github.com/user-attachments/assets/148f7b94-ed03-4470-8e07-729e3a4c3dda" />
-
 ## Links
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/user12ms)
+
+#
+
+<img width="100" height="90" alt="logo" src="https://github.com/user-attachments/assets/148f7b94-ed03-4470-8e07-729e3a4c3dda" />
