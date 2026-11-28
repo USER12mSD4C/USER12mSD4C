@@ -15,6 +15,7 @@ i love me and me only
 ## Links
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/user12ms)
+[![Hugging Face](https://img.shields.io/badge/hf-000000?style=flat&logo=hugging%20face&logoColor=white)](https://huggingface.co/USER12mS)
 
 #
 
