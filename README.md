@@ -12,7 +12,7 @@
 
 i love me and me only
 
-<img width="800" height="800" alt="logo" src="https://github.com/user-attachments/assets/148f7b94-ed03-4470-8e07-729e3a4c3dda" />
+<img width="800" height="790" alt="logo" src="https://github.com/user-attachments/assets/148f7b94-ed03-4470-8e07-729e3a4c3dda" />
 
 ## Links
 
